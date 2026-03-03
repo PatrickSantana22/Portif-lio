@@ -3,38 +3,40 @@
 Estudante de Ciência da Computação – 7º período  
 Interesses: Desenvolvimento, Redes, Segurança e IA
 
----
+# 🚀 Meu Portfólio de Projetos
 
-# 🚀 Projetos
-
-## 🍕 Aplicativos Mobile
-- [PizzaLab](https://github.com/seuusuario/pizzalab)
-  Aplicativo Android com sistema de pedidos e promoção automática.
+## 🍕 PizzaLab
+Aplicativo Android completo com sistema de pedidos.
+➡️ Veja detalhes: [PizzaLab](./pizzalab)
 
 ---
 
-## 📊 Análise de Dados
-- [Projeto de Estatística](https://github.com/seuusuario/projeto-estatistica)
-  Aplicação de estatística descritiva e análise de dados.
+## 📊 Projeto de Estatística
+Análise estatística aplicada.
+➡️ Veja detalhes: [Projeto Estatística](./projeto-estatistica)
 
 ---
 
-## 🧩 Estruturas de Dados
-- [Estruturas em C++](https://github.com/seuusuario/estruturas-cpp)
-  Implementação de lista, pilha e fila.
+## 🧩 Estruturas de Dados em C++
+Implementação de lista, pilha e fila.
+➡️ Veja detalhes: [Estruturas C++](./estruturas-cpp)
 
 ---
 
-## 🚗 Sistemas
-- [Gerenciamento de Estacionamento](https://github.com/seuusuario/estacionamento)
-- [Sistema de Cadastro Empresarial](https://github.com/seuusuario/cadastro-empresarial)
+## 🚗 Sistema de Estacionamento
+Controle completo de veículos.
+➡️ Veja detalhes: [Estacionamento](./estacionamento)
 
 ---
 
-## 🎮 Jogos
-- [Jogo em Unity](https://github.com/seuusuario/jogo-unity)
+## 🏢 Cadastro Empresarial
+Implementado em C, Java e Python.
+➡️ Veja detalhes: [Cadastro Empresarial](./cadastro-empresarial)
 
 ---
 
+## 🎮 Jogo Unity
+Jogo totalmente jogável em C#.
+➡️ Veja detalhes: [Jogo Unity](./jogo-unity)
 ## ⚽ IA e Dados
 - [Base de Dados + Podcast IA](https://github.com/seuusuario/base-futebol-ia)
